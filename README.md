@@ -42,6 +42,7 @@ The dashboard allows users to analyze sales performance using filters such as:
 - Quarter
 - Store Rank
 This helps in understanding revenue trends and comparing business performance across different categories.
-## 🖼️ Dashboard Preview
-![Power BI Sales Revenue Dashboard](Dashboard/Sales_Revenue_Dashboard.png)
+## 📊 Dashboard Preview
+
+![Power BI Sales Revenue Dashboard](./Dashboard/Sales_Revenue_Dashboard.png)
 
